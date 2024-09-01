@@ -1,0 +1,63 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+button {
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
+  color: #f0e68c; /* Light Yellow */
+  background-color: #e74c3c; /* Red */
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  margin-top: 20px; /* Spacing from the dice */
+  display: block; /* Center the button */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button:hover {
+  background-color: #c0392b; /* Darker Red on Hover */
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
