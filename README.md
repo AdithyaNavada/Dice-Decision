@@ -1,5 +1,11 @@
 # Dice Game
 
+## Live Demo
+
+You can play the game online by visiting the following link:
+
+[Play the Dice Game](#)  <!-- Replace # with your actual URL -->
+
 ## Overview
 
 This is a simple dice game built using HTML, CSS, and JavaScript.
