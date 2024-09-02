@@ -4,7 +4,7 @@
 
 You can play the game online by visiting the following link:
 
-[Play the Dice Game](#)  <!-- Replace # with your actual URL -->
+[Play the Dice Game](https://adithyanavada.github.io/Dice-Decision/dicee.html)  <!-- Replace # with your actual URL -->
 
 ## Overview
 
